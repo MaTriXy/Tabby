@@ -1,11 +1,12 @@
-package com.hitherejoe.tabby.util;
+package com.elkriefy.android.apps.tabby.util;
 
 import android.content.Context;
 import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.hitherejoe.tabby.R;
+import com.elkriefy.android.apps.tabby.R;
+
 
 public class SnackbarFactory {
 

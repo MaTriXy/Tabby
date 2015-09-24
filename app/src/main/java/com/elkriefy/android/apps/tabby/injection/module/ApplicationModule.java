@@ -1,4 +1,4 @@
-package com.hitherejoe.tabby.injection.module;
+package com.elkriefy.android.apps.tabby.injection.module;
 
 import android.app.Application;
 

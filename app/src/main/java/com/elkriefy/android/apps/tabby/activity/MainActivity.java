@@ -1,4 +1,4 @@
-package com.hitherejoe.tabby.ui.activity;
+package com.elkriefy.android.apps.tabby.activity;
 
 import android.app.PendingIntent;
 import android.content.Intent;
@@ -10,10 +10,10 @@ import android.support.design.widget.CoordinatorLayout;
 import android.support.v7.widget.Toolbar;
 import android.widget.CheckBox;
 
-import com.hitherejoe.tabby.R;
-import com.hitherejoe.tabby.util.CustomTabActivityHelper;
-import com.hitherejoe.tabby.util.ImageUtils;
-import com.hitherejoe.tabby.util.SnackbarFactory;
+import com.elkriefy.android.apps.tabby.R;
+import com.elkriefy.android.apps.tabby.util.CustomTabActivityHelper;
+import com.elkriefy.android.apps.tabby.util.ImageUtils;
+import com.elkriefy.android.apps.tabby.util.SnackbarFactory;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

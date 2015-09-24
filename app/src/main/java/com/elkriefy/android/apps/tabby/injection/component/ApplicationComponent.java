@@ -1,9 +1,9 @@
-package com.hitherejoe.tabby.injection.component;
+package com.elkriefy.android.apps.tabby.injection.component;
 
 import android.app.Application;
 
-import com.hitherejoe.tabby.injection.module.ApplicationModule;
-import com.hitherejoe.tabby.ui.activity.MainActivity;
+import com.elkriefy.android.apps.tabby.injection.module.ApplicationModule;
+import com.elkriefy.android.apps.tabby.activity.MainActivity;
 
 import javax.inject.Singleton;
 

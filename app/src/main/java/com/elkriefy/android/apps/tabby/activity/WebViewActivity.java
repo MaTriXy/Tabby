@@ -1,4 +1,4 @@
-package com.hitherejoe.tabby.ui.activity;
+package com.elkriefy.android.apps.tabby.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
@@ -6,7 +6,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.hitherejoe.tabby.R;
+import com.elkriefy.android.apps.tabby.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -17,7 +17,7 @@ public class WebViewActivity extends BaseActivity {
     WebView mWebView;
 
     public static final String EXTRA_URL =
-            "com.hitherejoe.tabby.ui.activity.WebViewActivity.EXTRA_URL";
+            "com.elkriefy.android.apps.tabby.activity.WebViewActivity.EXTRA_URL";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

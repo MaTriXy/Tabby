@@ -1,4 +1,4 @@
-package com.hitherejoe.tabby.util;
+package com.elkriefy.android.apps.tabby.util;
 
 import android.content.Context;
 import android.content.Intent;

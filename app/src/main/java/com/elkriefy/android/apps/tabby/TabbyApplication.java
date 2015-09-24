@@ -1,11 +1,11 @@
-package com.hitherejoe.tabby;
+package com.elkriefy.android.apps.tabby;
 
 import android.app.Application;
 import android.content.Context;
 
-import com.hitherejoe.tabby.injection.component.ApplicationComponent;
-import com.hitherejoe.tabby.injection.component.DaggerApplicationComponent;
-import com.hitherejoe.tabby.injection.module.ApplicationModule;
+import com.elkriefy.android.apps.tabby.injection.component.ApplicationComponent;
+import com.elkriefy.android.apps.tabby.injection.component.DaggerApplicationComponent;
+import com.elkriefy.android.apps.tabby.injection.module.ApplicationModule;
 
 import timber.log.Timber;
 

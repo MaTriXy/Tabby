@@ -1,10 +1,10 @@
-package com.hitherejoe.tabby.ui.activity;
+package com.elkriefy.android.apps.tabby.activity;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.hitherejoe.tabby.util.CustomTabActivityHelper;
+import com.elkriefy.android.apps.tabby.util.CustomTabActivityHelper;
 
 /**
  * A Fallback that opens a Webview when Custom Tabs is not available

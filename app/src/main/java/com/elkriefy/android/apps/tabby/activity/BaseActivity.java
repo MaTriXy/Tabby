@@ -1,11 +1,11 @@
-package com.hitherejoe.tabby.ui.activity;
+package com.elkriefy.android.apps.tabby.activity;
 
 import android.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
-import com.hitherejoe.tabby.TabbyApplication;
-import com.hitherejoe.tabby.injection.component.ApplicationComponent;
+import com.elkriefy.android.apps.tabby.TabbyApplication;
+import com.elkriefy.android.apps.tabby.injection.component.ApplicationComponent;
 
 public class BaseActivity extends AppCompatActivity {
 
